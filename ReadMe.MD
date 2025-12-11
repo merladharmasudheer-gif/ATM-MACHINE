@@ -1,4 +1,5 @@
-1. Team Members
+project title:ATM MENU SIMULATION
+TEAM MEMBERS:
 
 1.MERLA DHARMA SUDHEER-AP25110010274
 
@@ -216,5 +217,6 @@ Compile
 gcc yourprogram.c -o
 
 Run
+
 
 ./output
